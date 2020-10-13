@@ -121,3 +121,7 @@ for i in range(len(w1_save)):
     plt.pause(0.01)
 plt.show()
 
+"""
+learn how to use git to upload codes to github
+"""
+
